@@ -16,7 +16,10 @@ function myFunction() {
 myFunction();
 
 //🚀🚀🚀 ⬇️ 📝 Explanation ⬇️ 📝 🚀🚀🚀: 
-
+/*
+Children can access everything belonging to their parent, but parents can't access what belongs to their children.
+Scope is a one-way journey with the outermost being the most accessible.
+*/
 
 
 
